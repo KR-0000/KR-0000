@@ -14,23 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi, I'm Kushagra Dhall 👋
 
-I am a Computer Science and Data Science student at Rutgers University Honors College interested in machine learning, software engineering, and applying AI to real-world problems.
+I am a Computer Science and Data Science student at Rutgers University Honors College interested in software engineering, AI engineering, and applying artificial intelligence to real-world problems.
 
-I enjoy building AI-powered applications, exploring how machine learning models work, and developing software systems that solve practical problems. Through undergraduate research, industry programs, and personal projects, I have worked with machine learning, deep learning, backend systems, and full-stack development.
+I enjoy building software systems that solve practical problems, with experience developing backend services, full-stack applications, and AI-powered tools. Through undergraduate research, industry programs, and personal projects, I have worked with modern software development practices including APIs, databases, cloud deployment, and machine learning applications.
 
 Currently, I am:
-- Conducting undergraduate research on noise-robust training techniques for deep learning models
+- Conducting undergraduate research exploring noise-robust training techniques for deep learning models
 - Participating in the Break Through Tech AI Program
-- Building projects involving machine learning, healthcare AI, and software engineering
+- Building projects involving backend engineering, AI applications, and healthcare technology
 
 ## Technical Interests
 
-- Machine Learning and Deep Learning
-- AI Applications in Healthcare
-- Backend Engineering and Distributed Systems
+- Backend Software Engineering
+- AI Engineering and Machine Learning Applications
+- Healthcare Technology
 - Data Science and Statistical Modeling
 
 ## Technologies
@@ -42,10 +41,10 @@ Currently, I am:
 ## Featured Projects
 
 ### Clinical Decision Support System Prototype
-AI-powered clinical tool that generates structured medical differentials, ICD-10 codes, urgency levels, and next steps from patient summaries.
+AI-powered clinical tool that processes patient summaries and provides structured medical differentials, ICD-10 codes, urgency levels, and next steps.
 
 ### Biomedical RAG
-Retrieval-augmented generation system exploring applications of AI in biomedical information retrieval.
+Retrieval-augmented generation system exploring applications of AI for biomedical information retrieval.
 
 ### Real-Time Collaborative Notes App
 Full-stack collaborative application featuring authentication, WebSockets, caching, and PostgreSQL search.
@@ -54,4 +53,6 @@ Full-stack collaborative application featuring authentication, WebSockets, cachi
 
 📫 Email: kushagradhall@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/kushagra-dhall
+🔗 LinkedIn: [linkedin.com/in/kushagra-dhall](https://www.linkedin.com/in/kushagra-dhall)
+
+💻 GitHub: [github.com/KR-0000](https://github.com/KR-0000)
