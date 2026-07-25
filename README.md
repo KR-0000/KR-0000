@@ -52,6 +52,6 @@ Full-stack collaborative application featuring authentication, WebSockets, cachi
 
 ## Connect
 
-📫 Email: your-email@rutgers.edu
+📫 Email: kushagradhall@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/kushagra-dhall
